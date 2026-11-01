@@ -1,0 +1,25 @@
+{
+  "runId": "2026-11-01-15-54-36-dc6cc1ac",
+  "started": "2026-11-01T15:54:36.6895124+01:00",
+  "finished": "2026-11-01T15:54:37.3274138+01:00",
+  "durationSeconds": 0.6379014,
+  "workspace": "Niimbot-recovery",
+  "success": false,
+  "skipPush": false,
+  "repositories": [
+    {
+      "repository": "/home/johan/github/repos/Niimbot-labels",
+      "branch": "main",
+      "state": "failed",
+      "phase": "timestamp",
+      "changedFiles": 22,
+      "timestampedFiles": 0,
+      "commit": null,
+      "pushed": false,
+      "ahead": null,
+      "behind": null,
+      "error": "Could not find item /home/johan/github/repos/Niimbot-labels/.gitignore."
+    }
+  ],
+  "publication": "Outcome recorded in the local publication receipt; this immutable log is published last."
+}
