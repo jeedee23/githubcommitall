@@ -1,0 +1,38 @@
+{
+  "runId": "2026-11-02-14-48-14-21783b41",
+  "started": "2026-11-02T14:48:14.0110594+01:00",
+  "finished": "2026-11-02T14:48:19.1595126+01:00",
+  "durationSeconds": 5.1484532,
+  "workspace": "mutlirepo",
+  "success": true,
+  "skipPush": false,
+  "repositories": [
+    {
+      "repository": "/home/johan/github/repos/flowfixer",
+      "branch": "main",
+      "state": "synchronized",
+      "phase": "complete",
+      "changedFiles": 0,
+      "timestampedFiles": 0,
+      "commit": null,
+      "pushed": true,
+      "ahead": 0,
+      "behind": 0,
+      "error": null
+    },
+    {
+      "repository": "/home/johan/github/repos/Niimbot-labels",
+      "branch": "main",
+      "state": "synchronized",
+      "phase": "complete",
+      "changedFiles": 1,
+      "timestampedFiles": 0,
+      "commit": "486d916bdec92b2b46c2bf7aff7716772e36e8e7",
+      "pushed": true,
+      "ahead": 0,
+      "behind": 0,
+      "error": null
+    }
+  ],
+  "publication": "Outcome recorded in the local publication receipt; this immutable log is published last."
+}
